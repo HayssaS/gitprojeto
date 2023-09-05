@@ -1,0 +1,30 @@
+commit f0a41f7ce65c2c49340ea0ef8a91a597aaea687b
+Author: Hayssa Silva <hayssa.silva@fatec.sp.gov.br>
+Date:   Mon Aug 28 10:01:30 2023 -0300
+
+    git adiciona 2 frases frases.txt
+
+diff --git a/frases.txt b/frases.txt
+index 7f9912d..9a7632e 100644
+--- a/frases.txt
++++ b/frases.txt
+@@ -1 +1,2 @@
+-Hay <3 Kemiri
+\ No newline at end of file
++Hay <3 Kemiri
++ são melhores amigas
+
+commit 5de4fa31c366f1314aeffd8adb621729e2e916ce
+Author: Hayssa Silva <hayssa.silva@fatec.sp.gov.br>
+Date:   Mon Aug 28 09:42:27 2023 -0300
+
+    Add frases.txt
+
+diff --git a/frases.txt b/frases.txt
+new file mode 100644
+index 0000000..7f9912d
+--- /dev/null
++++ b/frases.txt
+@@ -0,0 +1 @@
++Hay <3 Kemiri
+\ No newline at end of file
